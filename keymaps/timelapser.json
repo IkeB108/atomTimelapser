@@ -1,0 +1,9 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-t": "timelapser:toggle",
+    "ctrl-alt-z": "timelapser:undoAll",
+    "ctrl-alt-y": "timelapser:redoAll",
+    "ctrl-alt-1": "timelapser:startRedoing",
+    "ctrl-alt-2": "timelapser:stopRedoing"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "timelapser",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "timelapser:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
